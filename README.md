@@ -1,8 +1,8 @@
 
-# Movie Ticket Booking System
+# CINEMAX - Movie Ticket Booking System
 
 ## About the Project
-The Movie Ticket Booking System is a Python-based application that simulates a theatre ticket booking counter. It allows users to view available movies, select show timings, choose seats and generate a booking ticket.
+The Movie Ticket Booking System "CINEMAX" is a Python-based application that simulates a theatre ticket booking counter. It allows users to view available movies, select show timings, choose seats and generate a booking ticket.
 
 ## Objectives
 - To simulate a real-world movie ticket booking process.
