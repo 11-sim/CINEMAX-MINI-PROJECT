@@ -59,4 +59,4 @@ Movie-Ticket-Booking-System/
 - Member 3: 36-TANVI S. CHAVAN
 
 ## Repository
-https://github.com/11-sim/Movie-Ticket-Booking-System
+https://github.com/11-sim/CINEMAX-MINI-PROJECT
